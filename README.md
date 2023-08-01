@@ -5,7 +5,7 @@
 - Background + prenatal form + parent/child (with birth data)
 - Background + prenatal form + parent/child + home visit data
  
-## 6 algorithms applied:
+## Algorithms applied
 - Logistic regression – with and without SMOTE
 - Decision tree – with and without SMOTE
 - Random forest
